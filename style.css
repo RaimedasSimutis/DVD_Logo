@@ -1,0 +1,27 @@
+html {
+    background-color: black;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    position: relative;
+    
+}
+
+.logo {
+    filter: invert(48%) sepia(94%) saturate(1397%) hue-rotate(158deg) brightness(90%) contrast(101%);
+    width: 20%;
+    height: auto;
+    background-color: transparent;
+    color: turquoise;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
